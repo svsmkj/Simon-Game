@@ -1,2 +1,2 @@
 # Simon-Game
-Simon game using HTMl CSS and basic JS
+Simon game using HTML CSS and basic JS
